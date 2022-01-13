@@ -1,3 +1,6 @@
+:warning: See https://github.com/lafourchette/php-rabbitmq-management-api instead
+_This fork was just for testing purpose_
+
 PHP RabbitMQ Management Api
 ===========================
 
